@@ -1,5 +1,5 @@
-# BWAStore HTML Source Code
-Source Code ini hasil project slicing HTML pada video tutorial [BWASTORE](https://bit.ly/BWASTORE)
+# Tenguyun diambil dari BWAStore HTML Source Code
+
 
 ## Lisensi
 
